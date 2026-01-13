@@ -63,18 +63,4 @@ https://drive.google.com/file/d/1suKLWFyeH55ZQ1g26PqGU_mzZFleewDZ/view?usp=shari
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kalpesh5536&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kalpesh5536&theme=tokyonight" />
-</p>
-
----
-
 ⭐ *Feel free to explore my repositories and connect with me!*
