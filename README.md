@@ -19,6 +19,9 @@
 - 🥈 **2nd Prize – Innoverse Problem Solver (WITCHAR 2024)**
 - 🏆 **Qualified State-level RBI90Quiz**
 
+see my below resume. 
+https://drive.google.com/file/d/1suKLWFyeH55ZQ1g26PqGU_mzZFleewDZ/view?usp=sharing
+
 ---
 
 ### 🌐 Connect with Me
